@@ -19,8 +19,14 @@ Hello this is Xinyao Han, nice to meet you!
 
 :school: I’m currently studying Business Analytics at MIT. I graduated from NYU Shanghai with a major in Computer Science & a minor in Mathematics. 
 ✨ I'm a proactive learner, tech lover, woman in tech, storyteller with data.
+💛 I'm a amateur pianist, avid yogi, adrenaline junkie, figure skating learner
 🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions. 
-📫 How to reach me: LinkedIn
-💛 My Interests: amateur pianist, avid yogi, adrenaline junkie, figure skating learner
+📫 How to reach me: sssarah-hxy@outlook.com
 😄 Pronouns: She/Her/Hers.
 ⚡ Fun fact: I nap and procrastinate a lot.
+
+### Language & Tools that I work with:
+#### Programming Languages:
+#### Machine Learning Libraries:
+#### Databases:
+#### Visualization:
