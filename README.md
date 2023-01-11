@@ -29,4 +29,4 @@ Hi I'm Xinyao Han, nice to meet you!
 
 😄 Pronouns: She/Her/Hers.
 
-⚡ Fun fact: ...
+⚡ Fun fact: I nap and procrastinate a lot.
