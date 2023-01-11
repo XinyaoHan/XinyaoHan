@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 Hi I'm Xinyao Han, nice to meet you!
 
 :school: I’m currently studying Business Analytics at MIT. 
+
 🙋🏻‍♀️ I'm a proactive learner, tech lover, woman in tech, storyteller with data.
 
-🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions
+🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions.
+
 📫 How to reach me: LinkedIn
+
 💛 My Interests: amateur pianist, avid yogi, adrenaline junkie, figure skating learner
+
 😄 Pronouns: She/Her/Hers.
+
 ⚡ Fun fact: ...
