@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Xinyao Han, nice to meet you!
+Hello this is Xinyao Han, nice to meet you!
 
 :school: I’m currently studying Business Analytics at MIT. I graduated from NYU Shanghai with a major in Computer Science & a minor in Mathematics.
 
