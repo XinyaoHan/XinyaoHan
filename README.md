@@ -25,6 +25,10 @@ Hello this is Xinyao Han, nice to meet you!
 😄 Pronouns: She/Her/Hers.
 ⚡ Fun fact: I nap and procrastinate a lot.
 
+### Research & Projects:
+* scalable high-dimensional matrix imputation research with _LibertyMutual_
+* satellite image classification
+
 ### Language & Tools that I work with:
 #### Programming Languages:
 #### Machine Learning Libraries:
