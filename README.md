@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello this is Xinyao Han, nice to meet you!
 
-:school: I’m currently studying Business Analytics at MIT. I graduated from NYU Shanghai with a major in Computer Science & a minor in Mathematics. 
+:school: I’m currently studying Business Analytics at MIT. I graduated from NYU Shanghai with a major in Computer Science & a minor in Mathematics.  
 ✨ I'm a proactive learner, tech lover, woman in tech, storyteller with data.
 💛 I'm a amateur pianist, avid yogi, adrenaline junkie, figure skating learner
 🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions. 
