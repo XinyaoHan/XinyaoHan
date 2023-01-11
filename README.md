@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### A little about me:
 Hello this is Xinyao Han, nice to meet you!
 
 :school: I’m currently studying Business Analytics at MIT. I graduated from NYU Shanghai with a major in Computer Science & a minor in Mathematics.  
-✨ I'm a proactive learner, tech lover, woman in tech, storyteller with data.
-💛 I'm a amateur pianist, avid yogi, adrenaline junkie, figure skating learner
-🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions. 
-📫 How to reach me: sssarah-hxy@outlook.com
-😄 Pronouns: She/Her/Hers.
-⚡ Fun fact: I nap and procrastinate a lot.
+✨ I'm a proactive learner, tech lover, woman in tech, storyteller with data.  
+💛 I'm a amateur pianist, avid yogi, adrenaline junkie, figure skating learner.  
+🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions.  
+📫 How to reach me: sssarah-hxy@outlook.com  
+😄 Pronouns: She/Her/Hers.  
+⚡ Fun fact: I nap and procrastinate a lot.  
 
 ### Research & Projects:
-* scalable high-dimensional matrix imputation research ✨_LibertyMutual_✨
-* satellite image classification to evaluate effects of Colombian mine clearance project ✨_UN Mine Action Service_✨
-* customer segmentation through textual data analysis ✨_HSBC_✨
+* scalable high-dimensional matrix imputation research ✨_LibertyMutual_✨  
+* satellite image classification to evaluate effects of Colombian mine clearance project ✨_UN Mine Action Service_✨  
+* customer segmentation through textual data analysis ✨_HSBC_✨  
 
 ### Language & Tools that I work with:
 #### Programming Languages:
