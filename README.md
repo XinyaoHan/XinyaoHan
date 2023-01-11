@@ -26,9 +26,9 @@ Hello this is Xinyao Han, nice to meet you!
 ⚡ Fun fact: I nap and procrastinate a lot.  
 
 ### Research & Projects:
-* scalable high-dimensional matrix imputation research ✨ _LibertyMutual_ ✨  
-* satellite image classification to evaluate effects of Colombian mine clearance project ✨ _UN Mine Action Service_ ✨  
-* customer segmentation through textual data analysis ✨ _HSBC_ ✨  
+* scalable high-dimensional matrix imputation research ✨ _LibertyMutual_  
+* satellite image classification to evaluate effects of Colombian mine clearance project ✨ _UN Mine Action Service_  
+* customer segmentation through textual data analysis ✨ _HSBC_  
 
 ### Language & Tools that I work with:
 #### Programming Languages:
