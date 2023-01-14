@@ -30,45 +30,20 @@ Hello this is Xinyao Han, nice to meet you!
 * satellite image classification to evaluate effects of Colombian mine clearance project ✨ _UN Mine Action Service_  
 * customer segmentation through textual data analysis ✨ _HSBC_  
 
-### Language & Tools that I work with:
-#### Programming Languages:
-#### Machine Learning Libraries:
-#### Databases:
-#### Visualization:
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> ![R](https://img.shields.io/badge/R-%2302954C.svg?style=for-the-badge&logo=R&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-%2301924C.svg?style=for-the-badge&logo=Julia&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">  <a href="https://d3js.org/" target="_blank"> <img alt="d3js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)    
 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+#### Machine Learning Toolkit
+ <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+ <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+ <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+ <a href="https://scikit-learn.org/" target="_blank"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+ <a href="https://www.scipy.org/" target="_blank"> <img alt="SciPy" src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/></a>
+ <a href="https://www.gurobi.org/" target="_blank"> <img alt="Gurobi" src="https://img.shields.io/badge/gurobi-EE4C2C?style=for-the-badge&logo=gurobi&logoColor=white"/></a>
+ <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+#### Editors
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
- </br>
