@@ -43,7 +43,8 @@ Hello this is Xinyao Han, nice to meet you!
  <a href="https://www.scipy.org/" target="_blank"> <img alt="SciPy" src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/></a>
  <a href="https://www.gurobi.org/" target="_blank"> <img alt="Gurobi" src="https://img.shields.io/badge/gurobi-EE4C2C?style=for-the-badge&logo=gurobi&logoColor=white"/></a>
  <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-
+ <a href="https://NLTK.org/" target="_blank"> <img alt="NLTK" src="https://img.shields.io/badge/NLTK-F7931E?style=for-the-badge&logo=NLTK&logoColor=white"/></a>
+ 
 #### Editors
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
