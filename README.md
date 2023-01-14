@@ -21,11 +21,9 @@ Hello this is Xinyao Han, nice to meet you!
 ✨ I'm a proactive learner, tech lover, woman in tech, storyteller with data.  
 💛 I'm a amateur pianist, avid yogi, adrenaline junkie, figure skating learner.  
 🌱 I'm interested in: machine learning, optimization, data analytics, data-driven decisions.  
-📫 How to reach me: sssarah-hxy@outlook.com  
+📫 How to reach me: [Linkedin]([https://www.linkedin.com/in/hazemessamsaleh](https://www.linkedin.com/in/xinyao-han/))
 😄 Pronouns: She/Her/Hers.  
 ⚡ Fun fact: I nap and procrastinate a lot.  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/xinyao-han/)
 
 ### Research & Projects:
 * scalable high-dimensional matrix imputation research ✨ _LibertyMutual_  
