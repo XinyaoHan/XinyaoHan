@@ -37,6 +37,7 @@ Hello this is Xinyao Han, nice to meet you!
 #### Visualization:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -64,3 +65,4 @@ Hello this is Xinyao Han, nice to meet you!
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+ </br>
