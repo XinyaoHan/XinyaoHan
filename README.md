@@ -25,6 +25,8 @@ Hello this is Xinyao Han, nice to meet you!
 😄 Pronouns: She/Her/Hers.  
 ⚡ Fun fact: I nap and procrastinate a lot.  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/xinyao-han/)
+
 ### Research & Projects:
 * scalable high-dimensional matrix imputation research ✨ _LibertyMutual_  
 * satellite image classification to evaluate effects of Colombian mine clearance project ✨ _UN Mine Action Service_  
